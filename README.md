@@ -71,6 +71,6 @@ The top factors driving house price were:
 └── requirements.txt                       # Python dependencies
 ```
 
-## 👤 Author
+## 👤 Talha Abdul Rauf
 
 Built as part of a Machine Learning project.
