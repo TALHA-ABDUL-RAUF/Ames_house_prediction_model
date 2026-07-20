@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction — Ames Housing Dataset
 
-A machine learning regression project that predicts house sale prices using the Ames Housing dataset. Built as part of a Machine Learning internship project.
+A machine learning regression project that predicts house sale prices using the Ames Housing dataset.
 
 ## 📌 Project Overview
 
