@@ -73,4 +73,4 @@ The top factors driving house price were:
 
 ## 👤 Author
 
-Built as part of a Machine Learning internship project.
+Built as part of a Machine Learning project.
